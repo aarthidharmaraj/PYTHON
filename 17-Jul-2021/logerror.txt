@@ -1,0 +1,8 @@
+2021-07-D 18:11:34 WARNING-warning message
+2021-07-D 18:11:34 CRITICAL-Critical message
+2021-07-D 18:11:34 ERROR-Error message
+2021-07-D 18:11:34 WARNING-Check for errors
+2021-07-D 18:11:34 ERROR-number cannot be divided by 0
+2021-07-D 18:11:34 WARNING-You Entered a small number
+2021-07-D 18:11:34 CRITICAL-You Entered a large number
+2021-07-D 18:11:34 WARNING-You Entered correct number
